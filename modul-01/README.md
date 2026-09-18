@@ -19,10 +19,10 @@
 > 4. Print "NIM: 1306625063"
 > 5. Input "Suhu Awal:..."
 > 6. Input "Suhu Akhir:..."
-> 7. Input "
-> 8. Print
-> 9. Print
-> 10. Hitung
-> 11. Hitung
+> 7. Input "Selang:..."
+> 8. Print "Tabel Konversi"
+> 9. Print "Tabel..."
+> 10. Hitung Celcius ke Reamur : 4/5
+> 11. Hitung Celcius ke Fahrenheit:
 > 12. Print Hasil
 > 13. selesai
