@@ -1,4 +1,4 @@
-# Modul [01] - [k0nversi suhu]
+# Modul [01] - [konversi suhu]
 
 **Nama:** [M. Royan Y L M]  
 **NIM:** [1306625063]  
