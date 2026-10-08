@@ -1,4 +1,4 @@
-# Modul [03] - [Nama Topik Modul]
+# Modul [03] - [Trigonometri With Function]
 
 **Nama:** [M. Royan Y L M]  
 **NIM:** [1306625063]  
