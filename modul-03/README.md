@@ -1,8 +1,8 @@
 # Modul [03] - [Nama Topik Modul]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [M. Royan Y L M]  
+**NIM:** [1306625063]  
+**Kelas:** [Fisika C]  
 
 ---
 
@@ -10,7 +10,16 @@
 > Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> a.Deret Mclaurin untuk Sinus
 
+> $$\sin x = \sum_{n=0}^{\infty} \frac{(-1)^n}{(2n+1)!} x^{2n+1}$$
+
+> b.Deret Mclaurin untuk Cosinus
+
+> $$\cos x = \sum_{n=0}^{\infty} \frac{(-1)^n}{(2n)!} x^{2n}$$
+
+> c.Rumus Relative Error (Er)
+
+> $$\text{Relative Error} = \left| \frac{AV - TV}{TV} \right| \times 100\%$$
 ## 3. Algorithm
 > Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
