@@ -7,7 +7,7 @@
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Membuat program untuk menghitung nilai sin dan cos dengan pendekatan deret Mc Laurin
 
 ## 2. Mathematical Equation
 > a.Deret Mclaurin untuk Sinus
